@@ -2,4 +2,4 @@
 
 My first personal website. Basically it is just a résumé.
 
-[Résumé Link](serhiirepinskyi.github.io/homepage/)
+[Résumé Link](https://serhiirepinskyi.github.io/homepage/)
